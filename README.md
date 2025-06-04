@@ -1,60 +1,51 @@
-# mostafaM99D
-
-<img src="images/me.jpg" align="right" width="200" alt="Profile picture placeholder" />
-
-Hi there! I'm **Mostafa Mohamed**, a Physics and Mathematics student on a mission to become a **Full‑Stack .NET Developer**.  
-I love building for the web and I'm eager to contribute to **open‑source** projects as I grow.
+<h1 align="center">Hi 👋, I'm Mostafa Mohamed</h1>
+<h3 align="center">Aspiring Full Stack .NET Developer | Physics & Mathematics Student</h3>
 
 ---
 
-## 🌐 Socials
-
-<a href="https://github.com/mostafaM99D"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="32" /></a>
-<a href="https://www.linkedin.com/in/mostafa-mohammed-a248282ba/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" /></a>
-<a href="https://x.com/MMOHAMED123654"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="32" /></a>
-<a href="https://www.instagram.com/mostafam99d/"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="32" /></a>
-<a href="https://web.facebook.com/Mostafa123845Mostafa/"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" width="32" /></a>
-<a href="mailto:mostafamohmmed513@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="32" /></a>
-
----
-
-## 🛠️ Currently Working With
-
-<a href="https://dotnet.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/net-framework.png" width="40" /></a>
-<a href="https://www.microsoft.com/sql-server"><img src="https://img.icons8.com/color/48/000000/sql.png" width="40" /></a>
+### 🔗 Socials
+<p align="left">
+  <a href="https://github.com/mostafaM99D" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mostafa-mohammed-a248282ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/MMOHAMED123654" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mostafam99d/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://web.facebook.com/Mostafa123845Mostafa/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:mostafamohmmed513@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📚 Currently Learning
+### 🛠️ Currently Working With
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
-<a href="https://learn.microsoft.com/ef/core/"><img src="https://img.icons8.com/color/48/000000/entity-framework.png" width="40" /></a>
-<a href="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png" width="40" /></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" /></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" width="40" /></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" /></a>
+### 📚 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/EF%20Core-6C3483?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### ✅ Skills & Tools I've Used
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows Services-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
 ---
 
-## ✅ Skills & Tools I've Used
-
-<a href="#"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="32" title="C#" /></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/net-framework.png" width="32" title=".NET Framework" /></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/sql.png" width="32" title="SQL Server" /></a>
-<a href="#"><img src="https://img.icons8.com/ios-filled/50/000000/windows8.png" width="32" title="Windows Forms" /></a>
-<a href="#"><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="32" title="REST API" /></a>
-<a href="#"><img src="https://www.svgrepo.com/show/439241/object-oriented-programming.svg" width="32" title="OOP" /></a>
+📷 **Profile Image Placeholder:** Replace this with your own photo in your GitHub profile or repo assets.
 
 ---
 
-## 🚀 Projects
-
-> I'm currently working on personal projects — stay tuned!
-
----
-
-### ✨ Quick facts
-
-- 💡 Looking to collaborate on .NET & Web projects  
-- 🌱 Always learning something new  
-- 🤝 Open to o
-::contentReference[oaicite:18]{index=18}
+📌 **Note:** I'm still a student studying Physics & Mathematics and working hard to become a Full Stack .NET Developer. I'm interested in Web Development and would love to contribute to open source projects.
