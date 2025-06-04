@@ -36,16 +36,23 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows Services-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Services-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
-📷 **Profile Image Placeholder:** Replace this with your own photo in your GitHub profile or repo assets.
+> 💡 Passionate about learning, building, and contributing to meaningful projects.  
+> Always eager to improve and collaborate with fellow developers.  
+>  
+> 🚀 My goal is to become a skilled Full Stack .NET developer, mastering both backend and frontend technologies to build robust and scalable web applications.  
+>  
+> 🌱 Currently expanding my knowledge in modern frontend frameworks and web standards to complement my backend expertise.  
+>  
+> 🤝 Open to collaborations, open-source contributions, and networking with like-minded developers.  
+>  
+> 🔭 Always curious, always coding, and ready to take on new challenges.
 
 ---
-
-📌 **Note:** I'm still a student studying Physics & Mathematics and working hard to become a Full Stack .NET Developer. I'm interested in Web Development and would love to contribute to open source projects.
